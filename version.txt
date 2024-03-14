@@ -1,1 +1,1 @@
-version: '1.0.1'
+SellDrugs_version: '1.0.1'
