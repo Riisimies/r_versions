@@ -1,1 +1,2 @@
 SellDrugs_version: '1.0.1'
+Multijob_version: '1.0.1'
