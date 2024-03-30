@@ -1,4 +1,4 @@
-SellDrugs_version: '1.0.1'
+SellDrugs_version: '1.0.2'
 Multijob_version: '1.0.1'
 Billing_version: '1.0.4'
 Grave_version: '1.0.2'
