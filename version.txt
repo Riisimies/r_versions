@@ -6,5 +6,5 @@ Billing_version: '1.0.4'
 
 Grave_version: '1.0.2'
 
-Container_version: '1.0.1'
-Container_UpdateInfo: 'Original release.'
+Container_version: '1.0.2'
+Container_UpdateInfo: 'Fixed item check for old esx.'
