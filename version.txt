@@ -6,5 +6,5 @@ Billing_version: '1.0.4'
 
 Grave_version: '1.0.2'
 
-Container_version: '1.0.3'
-Container_UpdateInfo: 'Removed dev tool pls download the latest version!!!'
+Container_version: '1.0.4'
+Container_UpdateInfo: 'Fixed typo in cl_custom.lua'
