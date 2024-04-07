@@ -4,7 +4,8 @@ Multijob_version: '1.0.1'
 
 Billing_version: '1.0.4'
 
-Grave_version: '1.0.2'
+Grave_version: '1.0.3'
+Grave_UpdateInfo: 'Fixed item check for old esx'
 
 Container_version: '1.0.4'
 Container_UpdateInfo: 'Fixed typo in cl_custom.lua'
