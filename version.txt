@@ -9,3 +9,6 @@ Grave_UpdateInfo: 'Fixed item check for old esx'
 
 Container_version: '1.0.4'
 Container_UpdateInfo: 'Fixed typo in cl_custom.lua'
+
+Bankrob_version: '1.0.1'
+Bankrob_UpdateInfo: 'Release'
