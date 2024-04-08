@@ -13,3 +13,6 @@ Container_UpdateInfo: 'Fixed doorsystem (Pls update soon as possible)'
 
 Bankrob_version: '1.0.1'
 Bankrob_UpdateInfo: 'Release'
+
+Atmrob_version: '1.0.1'
+Atmrob_UpdateInfo: 'Release'
