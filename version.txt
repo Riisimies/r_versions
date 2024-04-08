@@ -1,4 +1,5 @@
-SellDrugs_version: '1.0.3'
+SellDrugs_version: '1.0.4'
+SellDrugs_UpdateInfo 'Fixed item check for old esx.'
 
 Multijob_version: '1.0.1'
 
