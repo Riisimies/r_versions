@@ -16,3 +16,6 @@ Bankrob_UpdateInfo: 'Release'
 
 Atmrob_version: '1.0.1'
 Atmrob_UpdateInfo: 'Release'
+
+Scuba_version: '1.0.1'
+Scuba_UpdateInfo: 'Release'
