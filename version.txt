@@ -19,3 +19,6 @@ Atmrob_UpdateInfo: 'Release'
 
 Scuba_version: '1.0.2'
 Scuba_UpdateInfo: 'Added export for starting without suit'
+
+Comserv_version: '1.0.1'
+Comserv_UpdateInfo: 'Release'
