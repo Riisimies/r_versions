@@ -22,3 +22,6 @@ Scuba_UpdateInfo: 'Added export for starting without suit'
 
 Comserv_version: '1.0.1'
 Comserv_UpdateInfo: 'Release'
+
+hunting_version: '1.0.1'
+hunting_UpdateInfo: 'Release'
