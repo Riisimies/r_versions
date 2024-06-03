@@ -25,3 +25,6 @@ Comserv_UpdateInfo: 'Release'
 
 hunting_version: '1.0.1'
 hunting_UpdateInfo: 'Release'
+
+Npcrob_version: '1.0.1'
+Npcrob_UpdateInfo: 'Release'
