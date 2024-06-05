@@ -28,3 +28,6 @@ hunting_UpdateInfo: 'Release'
 
 Npcrob_version: '1.0.1'
 Npcrob_UpdateInfo: 'Release'
+
+shoprob_version: '1.0.5'
+shoprob_UpdateInfo: 'Added qb target support'
