@@ -26,8 +26,8 @@ Comserv_UpdateInfo: 'Release'
 hunting_version: '1.0.1'
 hunting_UpdateInfo: 'Release'
 
-Npcrob_version: '1.0.1'
-Npcrob_UpdateInfo: 'Release'
+Npcrob_version: '1.0.2'
+Npcrob_UpdateInfo: 'Fixed zone system'
 
 shoprob_version: '1.0.5'
 shoprob_UpdateInfo: 'Added qb target support'
