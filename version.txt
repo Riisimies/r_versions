@@ -14,8 +14,8 @@ Container_UpdateInfo: 'Fixed doorsystem (Pls update soon as possible)'
 Bankrob_version: '1.0.1'
 Bankrob_UpdateInfo: 'Release'
 
-Atmrob_version: '1.0.1'
-Atmrob_UpdateInfo: 'Release'
+Atmrob_version: '1.0.2'
+Atmrob_UpdateInfo: 'Fixed support for multiple banks'
 
 Scuba_version: '1.0.2'
 Scuba_UpdateInfo: 'Added export for starting without suit'
