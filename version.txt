@@ -17,8 +17,8 @@ Bankrob_UpdateInfo: 'Release'
 Atmrob_version: '1.0.2'
 Atmrob_UpdateInfo: 'Fixed support for multiple banks'
 
-Scuba_version: '1.0.2'
-Scuba_UpdateInfo: 'Added export for starting without suit'
+Scuba_version: '1.0.3'
+Scuba_UpdateInfo: 'Fixed issues with progressbar'
 
 Comserv_version: '1.0.1'
 Comserv_UpdateInfo: 'Release'
