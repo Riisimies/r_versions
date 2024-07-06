@@ -31,3 +31,6 @@ Npcrob_UpdateInfo: 'Fixed zone system'
 
 shoprob_version: '1.0.5'
 shoprob_UpdateInfo: 'Added qb target support'
+
+business_version: '1.0.1'
+business_UpdateInfo: 'Release'
