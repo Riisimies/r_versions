@@ -8,8 +8,8 @@ Billing_version: '1.0.4'
 Grave_version: '1.0.3'
 Grave_UpdateInfo: 'Fixed item check for old esx'
 
-Container_version: '1.0.7'
-Container_UpdateInfo: 'Fixed doorsystem'
+Container_version: '1.0.8'
+Container_UpdateInfo: 'Fixed doorsystem + added preconfig for 2 container'
 
 Bankrob_version: '1.0.1'
 Bankrob_UpdateInfo: 'Release'
