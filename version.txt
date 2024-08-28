@@ -34,3 +34,6 @@ shoprob_UpdateInfo: 'Fixed ox target issues'
 
 business_version: '1.0.1'
 business_UpdateInfo: 'Release'
+
+gangblocks_version: '1.0.1'
+gangblocks_UpdateInfo: 'Release'
