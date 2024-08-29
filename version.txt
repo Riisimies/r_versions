@@ -1,5 +1,5 @@
-SellDrugs_version: '1.0.4'
-SellDrugs_UpdateInfo 'Fixed item check for old esx.'
+SellDrugs_version: '1.0.5'
+SellDrugs_UpdateInfo 'Fixed issues with formatting.'
 
 Multijob_version: '1.0.1'
 
