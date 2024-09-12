@@ -40,3 +40,6 @@ gangblocks_UpdateInfo: 'Fixed small typo'
 
 gangjob_version: '1.0.1'
 gangjob_UpdateInfo: 'Release'
+
+lobaratory_version: '1.0.1'
+lobaratory_UpdateInfo: 'Release'
