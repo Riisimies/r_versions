@@ -43,3 +43,6 @@ gangjob_UpdateInfo: 'Release'
 
 lobaratory_version: '1.0.1'
 lobaratory_UpdateInfo: 'Release'
+
+antihit_version: '1.0.1'
+antihit_UpdateInfo: 'Release'
