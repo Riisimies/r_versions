@@ -38,8 +38,8 @@ business_UpdateInfo: 'Release'
 gangblocks_version: '1.0.2'
 gangblocks_UpdateInfo: 'Fixed small typo'
 
-gangjob_version: '1.0.1'
-gangjob_UpdateInfo: 'Release'
+gangjob_version: '1.0.2'
+gangjob_UpdateInfo: 'Fixed BreakIn leaving'
 
 lobaratory_version: '1.0.1'
 lobaratory_UpdateInfo: 'Release'
