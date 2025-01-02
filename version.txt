@@ -11,8 +11,8 @@ Grave_UpdateInfo: 'Fixed item check for old esx'
 Container_version: '1.1.0'
 Container_UpdateInfo: 'Added chances to items'
 
-Bankrob_version: '1.0.2'
-Bankrob_UpdateInfo: 'Fixed doorsystem'
+Bankrob_version: '1.0.3'
+Bankrob_UpdateInfo: 'Modified doorsystem to work with ox_doorlock'
 
 Atmrob_version: '1.0.2'
 Atmrob_UpdateInfo: 'Fixed support for multiple banks'
