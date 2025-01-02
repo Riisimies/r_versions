@@ -38,8 +38,8 @@ business_UpdateInfo: 'Release'
 gangblocks_version: '1.0.3'
 gangblocks_UpdateInfo: 'Fixed old esx member check'
 
-gangjob_version: '1.0.2'
-gangjob_UpdateInfo: 'Fixed BreakIn leaving'
+gangjob_version: '1.0.3'
+gangjob_UpdateInfo: 'BIG UPDATE'
 
 lobaratory_version: '1.0.1'
 lobaratory_UpdateInfo: 'Release'
