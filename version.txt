@@ -49,3 +49,6 @@ antihit_UpdateInfo: 'Release'
 
 gangarea_version: '1.0.1'
 gangarea_UpdateInfo: 'Release'
+
+freeline_store_status: 'toiminnassa'
+freeline_store_message: 'Resurssia käytetty oikein ja on toiminnassa!'
