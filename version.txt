@@ -29,8 +29,8 @@ hunting_UpdateInfo: 'Release'
 Npcrob_version: '1.0.4'
 Npcrob_UpdateInfo: 'Fixed issues with adding items'
 
-shoprob_version: '1.0.6'
-shoprob_UpdateInfo: 'Fixed ox target issues'
+shoprob_version: '1.0.7'
+shoprob_UpdateInfo: 'Fixed target issues'
 
 business_version: '1.0.1'
 business_UpdateInfo: 'Release'
