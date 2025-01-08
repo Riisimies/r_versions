@@ -26,8 +26,8 @@ Comserv_UpdateInfo: 'Release'
 hunting_version: '1.0.1'
 hunting_UpdateInfo: 'Release'
 
-Npcrob_version: '1.0.2'
-Npcrob_UpdateInfo: 'Fixed zone system'
+Npcrob_version: '1.0.3'
+Npcrob_UpdateInfo: 'Fixed issues with target'
 
 shoprob_version: '1.0.6'
 shoprob_UpdateInfo: 'Fixed ox target issues'
