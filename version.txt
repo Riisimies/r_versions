@@ -14,8 +14,8 @@ Container_UpdateInfo: 'Added chances to items'
 Bankrob_version: '1.0.3'
 Bankrob_UpdateInfo: 'Modified doorsystem to work with ox_doorlock'
 
-Atmrob_version: '1.0.2'
-Atmrob_UpdateInfo: 'Fixed support for multiple banks'
+Atmrob_version: '1.0.3'
+Atmrob_UpdateInfo: 'Fixed issus with target'
 
 Scuba_version: '1.0.3'
 Scuba_UpdateInfo: 'Fixed issues with progressbar'
