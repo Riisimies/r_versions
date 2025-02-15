@@ -53,5 +53,8 @@ gangarea_UpdateInfo: 'Release'
 drugs_version: '1.0.1'
 drugs_UpdateInfo: 'Release'
 
+tophud_version: '1.0.1'
+tophud_UpdateInfo: 'Release'
+
 freeline_store_status: 'Suljettu!'
 freeline_store_message: 'Maksakaa ffa minulle niin kauppa palaa toimintaan!'
