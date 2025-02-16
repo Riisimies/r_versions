@@ -53,6 +53,9 @@ gangarea_UpdateInfo: 'Release'
 drugs_version: '1.0.1'
 drugs_UpdateInfo: 'Release'
 
+ffa_version: '1.0.1'
+ffa_UpdateInfo: 'Release'
+
 tophud_version: '1.0.1'
 tophud_UpdateInfo: 'Release'
 
