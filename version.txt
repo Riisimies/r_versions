@@ -56,6 +56,9 @@ drugs_UpdateInfo: 'Release'
 ffa_version: '1.0.1'
 ffa_UpdateInfo: 'Release'
 
+r_store_version: '1.0.1'
+r_store_UpdateInfo: 'Release'
+
 tophud_version: '1.0.1'
 tophud_UpdateInfo: 'Release'
 
