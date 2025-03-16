@@ -1,4 +1,4 @@
-SellDrugs_version: '1.0.5'
+SellDrugs_version: '1.0.6'
 SellDrugs_UpdateInfo 'Fixed issues with formatting.'
 
 Multijob_version: '1.0.1'
