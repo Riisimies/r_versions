@@ -59,8 +59,8 @@ ffa_UpdateInfo: 'Release'
 r_store_version: '1.0.2'
 r_store_UpdateInfo: 'Fixed weapon adding for esx'
 
-tophud_version: '1.0.1'
-tophud_UpdateInfo: 'Release'
+tophud_version: '1.0.2'
+tophud_UpdateInfo: 'Fixed data issues'
 
 freeline_store_status: 'Suljettu!'
 freeline_store_message: 'Maksakaa ffa minulle niin kauppa palaa toimintaan!'
