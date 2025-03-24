@@ -62,5 +62,8 @@ r_store_UpdateInfo: 'Fixed weapon adding for esx'
 tophud_version: '1.0.2'
 tophud_UpdateInfo: 'Fixed data issues'
 
+propertyrob_version: '1.0.1'
+propertyrob_UpdateInfo: 'Release'
+
 freeline_store_status: 'Suljettu!'
 freeline_store_message: 'Maksakaa ffa minulle niin kauppa palaa toimintaan!'
