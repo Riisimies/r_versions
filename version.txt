@@ -20,8 +20,8 @@ Atmrob_UpdateInfo: 'Fixed issus with target'
 Scuba_version: '1.0.3'
 Scuba_UpdateInfo: 'Fixed issues with progressbar'
 
-Comserv_version: '1.0.1'
-Comserv_UpdateInfo: 'Release'
+Comserv_version: '1.0.2'
+Comserv_UpdateInfo: 'MAJOR UPDATE'
 
 hunting_version: '1.0.1'
 hunting_UpdateInfo: 'Release'
