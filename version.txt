@@ -59,6 +59,9 @@ r_ffa_UpdateInfo: 'Release'
 r_store_version: '1.0.2'
 r_store_UpdateInfo: 'Fixed weapon adding for esx'
 
+r_bridge_version: '1.0.1'
+r_bridge_UpdateInfo: 'Release'
+
 tophud_version: '1.0.2'
 tophud_UpdateInfo: 'Fixed data issues'
 
