@@ -62,8 +62,8 @@ r_store_UpdateInfo: 'HUGE UPDATE'
 r_bridge_version: '1.0.1'
 r_bridge_UpdateInfo: 'Release'
 
-tophud_version: '1.0.2'
-tophud_UpdateInfo: 'Fixed data issues'
+tophud_version: '1.0.3'
+tophud_UpdateInfo: 'Fixed issues + added support for qb + qbx gangs'
 
 propertyrob_version: '1.0.1'
 propertyrob_UpdateInfo: 'Release'
