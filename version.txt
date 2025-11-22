@@ -56,8 +56,8 @@ drugs_UpdateInfo: 'Release'
 r_ffa_version: '1.0.1'
 r_ffa_UpdateInfo: 'Release'
 
-r_store_version: '1.0.2'
-r_store_UpdateInfo: 'Fixed weapon adding for esx'
+r_store_version: '1.0.3'
+r_store_UpdateInfo: 'HUGE UPDATE'
 
 r_bridge_version: '1.0.1'
 r_bridge_UpdateInfo: 'Release'
@@ -68,8 +68,8 @@ tophud_UpdateInfo: 'Fixed data issues'
 propertyrob_version: '1.0.1'
 propertyrob_UpdateInfo: 'Release'
 
-r_casino_version: '1.0.1'
-r_casino_UpdateInfo: 'Release'
+r_casino_version: '1.0.2'
+r_casino_UpdateInfo: 'HUGE UPDATE'
 
 freeline_store_status: 'Suljettu!'
 freeline_store_message: 'Maksakaa ffa minulle niin kauppa palaa toimintaan!'
