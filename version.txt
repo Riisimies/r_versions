@@ -56,8 +56,8 @@ drugs_UpdateInfo: 'Release'
 r_ffa_version: '1.0.1'
 r_ffa_UpdateInfo: 'Release'
 
-r_store_version: '1.0.4'
-r_store_UpdateInfo: 'Added more support for tebex integration'
+r_store_version: '1.0.5'
+r_store_UpdateInfo: 'Added options to disable gategories.'
 
 r_bridge_version: '1.0.1'
 r_bridge_UpdateInfo: 'Release'
