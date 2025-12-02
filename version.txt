@@ -14,6 +14,9 @@ Container_UpdateInfo: 'Added chances to items'
 Bankrob_version: '1.0.3'
 Bankrob_UpdateInfo: 'Modified doorsystem to work with ox_doorlock'
 
+r_vehicleshop_version: '1.0.4'
+r_vehicleshop_UpdateInfo: 'Added support for custom garages'
+
 Atmrob_version: '1.0.4'
 Atmrob_UpdateInfo: 'Fixed issus with target'
 
