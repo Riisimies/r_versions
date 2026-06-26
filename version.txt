@@ -60,14 +60,14 @@ drugs_UpdateInfo: 'Release'
 r_ffa_version: '1.0.2'
 r_ffa_UpdateInfo: 'Fixed issues with scoreboard'
 
-r_store_version: '1.0.6'
-r_store_UpdateInfo: 'IMPORTANT SECURITY UPDATE! UPDATE NOW!!!'
+r_store_version: '2.0.0'
+r_store_UpdateInfo: 'Release of store v2'
 
 r_bridge_version: '1.0.1'
 r_bridge_UpdateInfo: 'Release'
 
 tophud_version: '2.0.0'
-tophud_UpdateInfo: 'Release of tophud V2'
+tophud_UpdateInfo: 'Release of tophud v2'
 
 propertyrob_version: '1.0.1'
 propertyrob_UpdateInfo: 'Release'
