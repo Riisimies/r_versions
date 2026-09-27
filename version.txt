@@ -60,7 +60,7 @@ drugs_UpdateInfo: 'Release'
 r_ffa_version: '2.0.0'
 r_ffa_UpdateInfo: 'Release of ffa v2'
 
-r_store_version: '2.0.0'
+r_store_version: '2.0.1'
 r_store_UpdateInfo: 'Release of store v2'
 
 r_bridge_version: '1.0.1'
@@ -72,7 +72,7 @@ tophud_UpdateInfo: 'Release of tophud v2'
 propertyrob_version: '1.0.1'
 propertyrob_UpdateInfo: 'Release'
 
-r_casino_version: '2.0.0'
+r_casino_version: '2.0.1'
 r_casino_UpdateInfo: 'Release of casino v2'
 
 freeline_store_status: 'Suljettu!'
