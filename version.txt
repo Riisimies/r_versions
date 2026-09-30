@@ -3,8 +3,8 @@ SellDrugs_UpdateInfo 'Fixed issues with formatting.'
 
 Multijob_version: '1.0.1'
 
-Billing_version: '2.0.0'
-Billing_UpdateInfo: 'Release of billing v2'
+Billing_version: '2.0.1'
+Billing_UpdateInfo: 'Upgrading from v1 now converts the old tables automatically: open bills, history and templates carry over'
 
 Grave_version: '1.0.3'
 Grave_UpdateInfo: 'Fixed item check for old esx'
