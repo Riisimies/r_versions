@@ -60,8 +60,8 @@ drugs_UpdateInfo: 'Release'
 r_ffa_version: '2.0.0'
 r_ffa_UpdateInfo: 'Release of ffa v2'
 
-r_store_version: '2.0.1'
-r_store_UpdateInfo: 'Release of store v2'
+r_store_version: '2.0.2'
+r_store_UpdateInfo: 'Added R.EnablePed option to disable the store NPC'
 
 r_bridge_version: '1.0.1'
 r_bridge_UpdateInfo: 'Release'
