@@ -78,5 +78,5 @@ r_casino_UpdateInfo: 'Release of casino v2'
 freeline_store_status: 'Suljettu!'
 freeline_store_message: 'Maksakaa ffa minulle niin kauppa palaa toimintaan!'
 
-r_loading_version: '2.0.0'
-r_loading_UpdateInfo: 'Release of loading v2'
+r_loading_version: '2.0.1'
+r_loading_UpdateInfo: 'Stays up until your character is loaded, showLog and showTitle now hide the loading text'
