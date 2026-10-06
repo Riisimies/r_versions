@@ -57,8 +57,8 @@ gangarea_UpdateInfo: 'Release'
 drugs_version: '1.0.1'
 drugs_UpdateInfo: 'Release'
 
-r_ffa_version: '2.0.0'
-r_ffa_UpdateInfo: 'Release of ffa v2'
+r_ffa_version: '2.0.1'
+r_ffa_UpdateInfo: 'Fixed the mouse cursor getting stuck when leaving the arena right after joining'
 
 r_store_version: '2.0.2'
 r_store_UpdateInfo: 'Added R.EnablePed option to disable the store NPC'
