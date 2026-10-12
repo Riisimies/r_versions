@@ -1,6 +1,9 @@
 SellDrugs_version: '1.0.6'
 SellDrugs_UpdateInfo 'Fixed issues with formatting.'
 
+r_armwrestle_version: '1.0.0'
+r_armwrestle_UpdateInfo: 'First release'
+
 Multijob_version: '1.0.1'
 
 Billing_version: '2.0.1'
