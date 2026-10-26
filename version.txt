@@ -81,8 +81,8 @@ r_casino_UpdateInfo: 'Bridge files are now open for editing, new R.TextUI option
 freeline_store_status: 'Suljettu!'
 freeline_store_message: 'Maksakaa ffa minulle niin kauppa palaa toimintaan!'
 
-r_loading_version: '2.2.0'
-r_loading_UpdateInfo: 'Background slideshow: give image.src a list of pictures and they crossfade smoothly'
+r_loading_version: '2.3.0'
+r_loading_UpdateInfo: 'Tips above the loading bar, the log shows which resource is loading, and the music player remembers volume and pause'
 r_billing_version: '2.0.2'
 r_billing_UpdateInfo: 'Bridge files are now open for editing, new R.TextUI option and R.Target none/custom for your own target system'
 r_slasher_version: '1.0.0'
