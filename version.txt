@@ -6,8 +6,8 @@ r_armwrestle_UpdateInfo: 'First release'
 
 Multijob_version: '1.0.1'
 
-Billing_version: '2.0.3'
-Billing_UpdateInfo: 'The UI logo is now a normal file: replace web/build/media/logo.png with your own logo'
+Billing_version: '2.0.4'
+Billing_UpdateInfo: 'Performance and security update: server rate limits on every action, bulk billing capped, faster history queries (indexes added automatically)'
 
 Grave_version: '1.0.3'
 Grave_UpdateInfo: 'Fixed item check for old esx'
@@ -18,8 +18,8 @@ Container_UpdateInfo: 'Added chances to items'
 Bankrob_version: '1.0.3'
 Bankrob_UpdateInfo: 'Modified doorsystem to work with ox_doorlock'
 
-r_vehicleshop_version: '2.0.1'
-r_vehicleshop_UpdateInfo: 'Bridge files are now open for editing, new R.TextUI option and R.Target none/custom for your own target system'
+r_vehicleshop_version: '2.0.2'
+r_vehicleshop_UpdateInfo: 'Fixed a white flash when opening the shop and showroom cars floating above the floor; rate limits and lighter showroom loop'
 
 Atmrob_version: '1.0.4'
 Atmrob_UpdateInfo: 'Fixed issus with target'
@@ -60,23 +60,23 @@ gangarea_UpdateInfo: 'Release'
 drugs_version: '1.0.1'
 drugs_UpdateInfo: 'Release'
 
-r_ffa_version: '2.2.0'
-r_ffa_UpdateInfo: 'Leaderboard podium in the world with the top 3 players and their outfits, Discord profile pictures on the leaderboard and in duels'
+r_ffa_version: '2.2.1'
+r_ffa_UpdateInfo: 'Performance and security update: server rate limits on every action, memory cleanup when players leave'
 
-r_store_version: '2.0.3'
-r_store_UpdateInfo: 'Bridge files are now open for editing, new R.TextUI option and R.Target none/custom for your own target system'
+r_store_version: '2.0.4'
+r_store_UpdateInfo: 'Performance and security update: rate limits, lighter test drive, gang purchases saved to history (database updated automatically)'
 
 r_bridge_version: '1.0.1'
 r_bridge_UpdateInfo: 'Release'
 
-tophud_version: '2.0.0'
-tophud_UpdateInfo: 'Release of tophud v2'
+tophud_version: '2.0.1'
+tophud_UpdateInfo: 'Small performance update'
 
 propertyrob_version: '1.0.1'
 propertyrob_UpdateInfo: 'Release'
 
-r_casino_version: '2.0.3'
-r_casino_UpdateInfo: 'Bridge files are now open for editing, new R.TextUI option and R.Target none/custom for your own target system'
+r_casino_version: '2.0.4'
+r_casino_UpdateInfo: 'Performance and security update: server rate limits on every game action, cleaner resource restarts'
 
 freeline_store_status: 'Suljettu!'
 freeline_store_message: 'Maksakaa ffa minulle niin kauppa palaa toimintaan!'
@@ -85,5 +85,5 @@ r_loading_version: '2.3.0'
 r_loading_UpdateInfo: 'Tips above the loading bar, the log shows which resource is loading, and the music player remembers volume and pause'
 r_billing_version: '2.0.2'
 r_billing_UpdateInfo: 'Bridge files are now open for editing, new R.TextUI option and R.Target none/custom for your own target system'
-r_slasher_version: '1.0.0'
-r_slasher_UpdateInfo: 'First release'
+r_slasher_version: '1.0.1'
+r_slasher_UpdateInfo: 'Performance update: lighter street HUD, server rate limits, memory cleanup when players leave'
