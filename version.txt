@@ -9,8 +9,8 @@ Multijob_version: '1.0.1'
 Billing_version: '2.0.4'
 Billing_UpdateInfo: 'Performance and security update: server rate limits on every action, bulk billing capped, faster history queries (indexes added automatically)'
 
-Grave_version: '2.0.0'
-Grave_UpdateInfo: 'v2: open graves at Hill Valley, shovel rhythm, metal detector, fence, funerals and ghosts. The config is new, set it up again.'
+Grave_version: '2.0.1'
+Grave_UpdateInfo: 'Loot mode one: one item per dig by weight (R.Loot.mode). Police can check hands for grave dirt (R.Dirt.police).'
 
 Container_version: '1.1.0'
 Container_UpdateInfo: 'Added chances to items'
