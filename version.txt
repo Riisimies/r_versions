@@ -9,8 +9,8 @@ Multijob_version: '1.0.1'
 Billing_version: '2.0.4'
 Billing_UpdateInfo: 'Performance and security update: server rate limits on every action, bulk billing capped, faster history queries (indexes added automatically)'
 
-Grave_version: '2.0.1'
-Grave_UpdateInfo: 'Loot mode one: one item per dig by weight (R.Loot.mode). Police can check hands for grave dirt (R.Dirt.police).'
+Grave_version: '2.0.2'
+Grave_UpdateInfo: 'ESX text UI and notifications fixed, priest no longer drops his bat, coffin bodies stay lying. Config unchanged.'
 
 Container_version: '1.1.0'
 Container_UpdateInfo: 'Added chances to items'
