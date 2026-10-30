@@ -6,8 +6,8 @@ r_armwrestle_UpdateInfo: 'First release'
 
 Multijob_version: '1.0.1'
 
-Billing_version: '2.0.4'
-Billing_UpdateInfo: 'Performance and security update: server rate limits on every action, bulk billing capped, faster history queries (indexes added automatically)'
+Billing_version: '2.1.0'
+Billing_UpdateInfo: 'Commission for employees, bank or cash payments, pay all, late fees, company income and team ranking with Discord pictures'
 
 Grave_version: '2.0.2'
 Grave_UpdateInfo: 'ESX text UI and notifications fixed, priest no longer drops his bat, coffin bodies stay lying. Config unchanged.'
@@ -83,7 +83,7 @@ freeline_store_message: 'Maksakaa ffa minulle niin kauppa palaa toimintaan!'
 
 r_loading_version: '2.3.0'
 r_loading_UpdateInfo: 'Tips above the loading bar, the log shows which resource is loading, and the music player remembers volume and pause'
-r_billing_version: '2.0.2'
-r_billing_UpdateInfo: 'Bridge files are now open for editing, new R.TextUI option and R.Target none/custom for your own target system'
+r_billing_version: '2.1.0'
+r_billing_UpdateInfo: 'Commission for employees, bank or cash payments, pay all, late fees, company income and team ranking with Discord pictures'
 r_slasher_version: '1.0.1'
 r_slasher_UpdateInfo: 'Performance update: lighter street HUD, server rate limits, memory cleanup when players leave'
