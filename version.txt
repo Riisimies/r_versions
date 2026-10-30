@@ -9,8 +9,8 @@ Multijob_version: '1.0.1'
 Billing_version: '2.1.0'
 Billing_UpdateInfo: 'Commission for employees, bank or cash payments, pay all, late fees, company income and team ranking with Discord pictures'
 
-Grave_version: '2.0.2'
-Grave_UpdateInfo: 'ESX text UI and notifications fixed, priest no longer drops his bat, coffin bodies stay lying. Config unchanged.'
+Grave_version: '2.0.3'
+Grave_UpdateInfo: 'Coffin bodies stay lying in the coffin even when other scripts move peds. Config unchanged.'
 
 Container_version: '1.1.0'
 Container_UpdateInfo: 'Added chances to items'
