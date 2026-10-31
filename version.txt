@@ -21,8 +21,8 @@ Bankrob_UpdateInfo: 'Modified doorsystem to work with ox_doorlock'
 r_vehicleshop_version: '2.0.2'
 r_vehicleshop_UpdateInfo: 'Fixed a white flash when opening the shop and showroom cars floating above the floor; rate limits and lighter showroom loop'
 
-Atmrob_version: '1.0.4'
-Atmrob_UpdateInfo: 'Fixed issus with target'
+Atmrob_version: '2.0.0'
+Atmrob_UpdateInfo: 'v2: rebuilt from scratch. Four ways to rob any ATM: crowbar, a hack on the ATM screen, thermite, or a rope and a car. New config and items, set them up again.'
 
 Scuba_version: '1.0.3'
 Scuba_UpdateInfo: 'Fixed issues with progressbar'
