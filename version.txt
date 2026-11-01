@@ -33,8 +33,8 @@ Comserv_UpdateInfo: 'MAJOR UPDATE'
 hunting_version: '1.0.1'
 hunting_UpdateInfo: 'Release'
 
-Npcrob_version: '1.0.4'
-Npcrob_UpdateInfo: 'Fixed issues with adding items'
+Npcrob_version: '2.0.0'
+Npcrob_UpdateInfo: 'v2: rebuilt from scratch. Wallet toss, warning shots, chases, jewelry, citizens that run, fight back or pull a gun, and witnesses that call the police. New config and items, set them up again.'
 
 shoprob_version: '1.0.7'
 shoprob_UpdateInfo: 'Fixed target issues'
