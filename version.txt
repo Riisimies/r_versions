@@ -63,8 +63,8 @@ drugs_UpdateInfo: 'Release'
 r_ffa_version: '2.2.1'
 r_ffa_UpdateInfo: 'Performance and security update: server rate limits on every action, memory cleanup when players leave'
 
-r_store_version: '2.0.4'
-r_store_UpdateInfo: 'Performance and security update: rate limits, lighter test drive, gang purchases saved to history (database updated automatically)'
+r_store_version: '2.1.0'
+r_store_UpdateInfo: 'Bundles, a daily reward streak, custom products and a Get credits button. New config options: R.TebexUrl, R.Daily and bundles (database updated automatically)'
 
 r_bridge_version: '1.0.1'
 r_bridge_UpdateInfo: 'Release'
