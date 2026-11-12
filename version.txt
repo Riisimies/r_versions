@@ -63,8 +63,8 @@ drugs_UpdateInfo: 'Release'
 r_ffa_version: '2.2.2'
 r_ffa_UpdateInfo: 'You must be at a join point to enter a lobby (R.Lobby.joinDistance, 0 = anywhere). Downed, cuffed or jailed players cannot join or duel. ESC no longer opens the pause menu.'
 
-r_store_version: '2.1.0'
-r_store_UpdateInfo: 'Bundles, a daily reward streak, custom products and a Get credits button. New config options: R.TebexUrl, R.Daily and bundles (database updated automatically)'
+r_store_version: '2.2.0'
+r_store_UpdateInfo: 'Players can now buy credits with in-game money and cash them out. New config block R.BuyCredits (off by default) and two new exports'
 
 r_bridge_version: '1.0.1'
 r_bridge_UpdateInfo: 'Release'
@@ -75,8 +75,8 @@ tophud_UpdateInfo: 'Small performance update'
 propertyrob_version: '1.0.1'
 propertyrob_UpdateInfo: 'Release'
 
-r_casino_version: '2.0.4'
-r_casino_UpdateInfo: 'Performance and security update: server rate limits on every game action, cleaner resource restarts'
+r_casino_version: '2.1.0'
+r_casino_UpdateInfo: 'Players can now buy coins with in-game money and cash out their winnings. New config block R.BuyCredits (off by default)'
 
 freeline_store_status: 'Suljettu!'
 freeline_store_message: 'Maksakaa ffa minulle niin kauppa palaa toimintaan!'
