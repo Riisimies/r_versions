@@ -36,8 +36,8 @@ hunting_UpdateInfo: 'Release'
 Npcrob_version: '2.0.1'
 Npcrob_UpdateInfo: 'The robbery cooldown now follows the character, so it survives a reconnect.'
 
-shoprob_version: '1.0.7'
-shoprob_UpdateInfo: 'Fixed target issues'
+shoprob_version: '2.0.0'
+shoprob_UpdateInfo: 'Rebuilt from scratch: holdups, safe cracking, lockpick or crowbar registers, shoplifting, shootable cameras and a suspect description. The config is new, set it up again.'
 
 business_version: '1.0.1'
 business_UpdateInfo: 'Release'
