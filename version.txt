@@ -51,8 +51,11 @@ gangjob_UpdateInfo: 'Fixed issues with stores + garages'
 lobaratory_version: '1.0.1'
 lobaratory_UpdateInfo: 'Release'
 
-antihit_version: '1.0.1'
-antihit_UpdateInfo: 'Release'
+antihit_version: '2.0.0'
+antihit_UpdateInfo: 'Rebuilt. The server runs the check, log, kick or custom actions, custom peds with /antihitbox save, admin alerts, no ox_lib. New config, set it up again'
+
+r_antihitbox_version: '2.0.0'
+r_antihitbox_UpdateInfo: 'Rebuilt. The server runs the check, log, kick or custom actions, custom peds with /antihitbox save, admin alerts, no ox_lib. New config, set it up again'
 
 gangarea_version: '1.0.1'
 gangarea_UpdateInfo: 'Release'
