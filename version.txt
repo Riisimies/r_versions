@@ -39,6 +39,9 @@ Npcrob_UpdateInfo: 'The robbery cooldown now follows the character, so it surviv
 shoprob_version: '2.0.0'
 shoprob_UpdateInfo: 'Rebuilt from scratch: holdups, safe cracking, lockpick or crowbar registers, shoplifting, shootable cameras and a suspect description. The config is new, set it up again.'
 
+jewelry_version: '2.0.0'
+jewelry_UpdateInfo: 'Rebuilt from scratch around Vangelico: a loud start or roof vent gas, a guard, a clerk and shoppers, glass cases, wall displays, paintings, the back room safe, the centre display with a new prize every robbery and a fence who texts you. The config is new, set it up again.'
+
 business_version: '1.0.1'
 business_UpdateInfo: 'Release'
 
