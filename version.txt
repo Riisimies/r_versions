@@ -69,8 +69,8 @@ drugs_UpdateInfo: 'Release'
 r_ffa_version: '2.2.2'
 r_ffa_UpdateInfo: 'You must be at a join point to enter a lobby (R.Lobby.joinDistance, 0 = anywhere). Downed, cuffed or jailed players cannot join or duel. ESC no longer opens the pause menu.'
 
-r_store_version: '2.2.0'
-r_store_UpdateInfo: 'Players can now buy credits with in-game money and cash them out. New config block R.BuyCredits (off by default) and two new exports'
+r_store_version: '2.3.0'
+r_store_UpdateInfo: 'New R.TestDriveMaxTune option (max tuning on test drive cars), full ox_inventory fix for stacking items and six new languages'
 
 r_bridge_version: '1.0.1'
 r_bridge_UpdateInfo: 'Release'
